@@ -1,3 +1,4 @@
 print("aboba")
-print("Hello, world!")
+print("Hello!")
 print("bebra")
+text="Ваше сообщение"
