@@ -1,2 +1,2 @@
 print("aboba")
-print("bebra")
+print("bebra")print("abobchick")
