@@ -1,6 +1,6 @@
 [settings]
 bebra=bebra
-theme=light
+theme=dark
 aboba=aboba
 language=ru
 abobchick=abobchick
