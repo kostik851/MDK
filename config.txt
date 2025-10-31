@@ -2,5 +2,5 @@
 bebra=bebra
 theme=dark
 aboba=aboba
-language=ru
+language=en
 abobchick=abobchick
